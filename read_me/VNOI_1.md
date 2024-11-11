@@ -36,7 +36,7 @@ def calculate_electricity_bill(k):
 
 ## test result
 k = int(input())
-print(calculate_electricity_bill(k))
+print(f"{calculate_electricity_bill(k):.2f}")
 ```
 
 ### Bài 2
